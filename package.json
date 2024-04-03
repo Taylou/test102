@@ -1,0 +1,15 @@
+{
+  "name": "elctn",
+  "version": "1.0.0",
+  "description": "elctnapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elctn",
+    "key"
+  ],
+  "author": "TT",
+  "license": "MIT"
+}
